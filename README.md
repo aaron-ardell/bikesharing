@@ -7,13 +7,13 @@ The purposes of this analysis is to research how the bike sharing service Citi B
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/August_Peak_Hours_Bar.png)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/Checkout_Gender_Line.png)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/Checkout_User.png)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/NYC_Citi_Dashboard_Start_End.png)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/Subscriber_Base_Pie.png)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/Trips_Gender_WD_Hour_Heat.png)
+![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/User_Trips_Gender_Heat.png)
 
 
 
