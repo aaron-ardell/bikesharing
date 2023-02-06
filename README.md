@@ -38,7 +38,7 @@ A final perspective, the most popular starting and ending points for trips in th
 
 ![This is an image](https://github.com/aaron-ardell/bikesharing/blob/main/NYC_Citi_Dashboard_Start_End.png)
 
-Review the interactive web-based charts [HERE](https://public.tableau.com/app/profile/aaron.ardell/viz/bikesharing_16756204412070/Story1?publish=yes).
+Link to the interactive dashboard [HERE](https://public.tableau.com/app/profile/aaron.ardell/viz/bikesharing_16756204412070/Story1?publish=yes).
 
 ## Summary:
 
